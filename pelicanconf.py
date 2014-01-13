@@ -16,10 +16,21 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('AchievementsGen1', 'https://amunak.net/projects/mcachievements/'),
+          ('AchievementsGen2', 'http://mcgen.menzerath.eu/'),
+          ('AwesomeSkins', 'http://mctools.tyzoid.com/skins/'),
+          ('Bahamut', 'http://forum.gamer.com.tw/C.php?bsn=18673&snA=70656&tnum=2&subbsn=4'),
+          ('CraftBukkit', 'http://bukkit.org/'),
+          ('Komica', 'http://komica.peroneko.org/minecraft/'),
+          ('Minebot', 'http://minebot.net/'),
+          ('Minecraft', 'http://www.minecraft.net/'),
+          ('Minecraft Wiki', 'http://zh.minecraftwiki.net/Minecraft_Wiki'),
+          ('Mojang | Support Center', 'http://help.mojang.com/'),
+          ('Moo\'s World', 'http://moosmcworld.blogspot.tw/'),
+          ('Moo\'s World II', 'http://moosbook.blogspot.tw/'),
+          ('SignatureCraft', 'http://signaturecraft.us/'),
+          ('Skin Viewer', 'http://minecraft.aggenkeech.com/'),
+          ('Textcraft', 'http://textcraft.net/'),)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
