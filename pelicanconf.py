@@ -32,6 +32,9 @@ DEFAULT_PAGINATION = 10
 
 DISPLAY_PAGES_ON_MENU = True
 
+# Menu
+DISPLAY_CATEGORIES_ON_MENU = False
+
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
 #BOOTSTRAP_THEME = 'readable'
