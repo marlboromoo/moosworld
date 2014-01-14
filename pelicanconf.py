@@ -53,6 +53,10 @@ DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DROPDOWN_MENU = True
 DROPDOWN_MENUITEMS = {
+    'Chat' : (
+        ('moosworld2@kekeke.cc', 'http://kekeke.cc/moosworld2'),
+        ('#moosworld.net@irc.esper.net', 'http://irc.moosworld.net/'),
+    ),
     'Server' : (
         ('DynMap', 'http://dynmap.moosworld.net'),
         ('Map', 'http://map.moosworld.net'),
