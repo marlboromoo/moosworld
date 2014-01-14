@@ -3,6 +3,7 @@ Date: 2014-01-08 03:52
 Author: noreply@blogger.com (MarlboroMoo)
 Tags: Doc, Plugins
 Slug: supernatural
+Dropdown: Plugins
 
 ## 序言
 更多的超自然生物出現在這個大陸, 你選擇加入並分享他們的邪惡力量, 或是消滅它們維持世界的秩序呢?

@@ -3,6 +3,7 @@ Date: 2013-12-26 02:09
 Author: noreply@blogger.com (MarlboroMoo)
 Tags: Doc, Plugins
 Slug: griefprevention
+Dropdown: Plugins
 
 ### 如何新增領地?
 首先你必須先取得[金鏟子(shovel)][]並拿在手上, 接著在你想保護的土地範圍左上角按

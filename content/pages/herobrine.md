@@ -3,6 +3,7 @@ Date: 2013-10-28 01:17
 Author: noreply@blogger.com (MarlboroMoo)
 Tags: Doc, Plugins
 Slug: herobrine
+Dropdown: Plugins
 
 ## 簡介
 [Herobrine][] 是傳說中的鬼魂, 它擁有強大的能力和以下特色:

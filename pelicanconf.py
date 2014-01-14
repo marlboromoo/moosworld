@@ -45,6 +45,7 @@ DISPLAY_PAGES_ON_MENU = True
 
 # Menu
 DISPLAY_CATEGORIES_ON_MENU = False
+DROPDOWN_MENU = True
 
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
