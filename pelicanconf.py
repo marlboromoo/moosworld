@@ -119,7 +119,7 @@ DISQUS_SITENAME = 'moosworld'
 DISQUS_DISPLAY_COUNTS = False
 
 # Social
-GITHUB_USER = 'marlboromoo'
+#GITHUB_USER = 'marlboromoo'
 
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
