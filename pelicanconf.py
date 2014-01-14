@@ -67,7 +67,7 @@ BLOCKS = (
     ('Server', 'fa-cloud', """IP: play.moosworld.net:25565 <div id="web_mcstatus-container">Loading ...</div>
 <script src="http://mcstatus.moosworld.net/web_mcstatus.js?host=play.moosworld.net" type="text/javascript"></script> """),
     ('Donate', 'fa-usd', """
-     <span class="help-block">如果你覺得Moo's world帶給你很多樂趣, 或想要更好的遊戲品質, 非常歡迎實質上的支持! 多種的贊助方式可選擇:</span>
+    <p>如果你覺得Moo's world帶給你很多樂趣, 或想要更好的遊戲品質, 非常歡迎實質上的支持! 多種的贊助方式可選擇:</p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-inline">
        <input type="hidden" name="cmd" value="_s-xclick" />
        <input type="hidden" name="hosted_button_id" value="JLK9YM6J2F87W" />
