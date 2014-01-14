@@ -61,12 +61,12 @@ Herobrine 所招喚的 NPC 們.
 [![image][8]][8]
 
   [Herobrine]: http://minecraft-zh.gamepedia.com/index.php?title=Herobrine&variant=zh-tw
-  [0]: http://4.bp.blogspot.com/-XtweSDCfDnA/UmnP3Sy_YAI/AAAAAAAABS8/DdTQTlbV2Us/s1600/2012-10-13_14.52.14.png
-  [1]: http://4.bp.blogspot.com/-tIn_WX6mQd4/UmnP4DCseKI/AAAAAAAABTE/UlTnGpviuTI/s320/bury_player.png
-  [2]: http://2.bp.blogspot.com/-7aCdLNYzoG4/UmnP4EKesdI/AAAAAAAABTU/shdnmXmexQg/s320/graveyard_world.png
-  [3]: http://3.bp.blogspot.com/-m64AMFvnvWk/UmnP5E432cI/AAAAAAAABTc/dtCncVNPR6A/s320/herobrine_temple.png
-  [4]: http://1.bp.blogspot.com/-F5vFMqFR6PI/UmnP3u1jLKI/AAAAAAAABTQ/rNES5xvzUMo/s1600/bow.png
-  [5]: http://2.bp.blogspot.com/-im-26AZzWCg/UmnP6OtGSXI/AAAAAAAABTs/_tzw3llSkEw/s1600/sword.png
-  [6]: http://1.bp.blogspot.com/-p3Um37jUGr0/UmnP3LbvIKI/AAAAAAAABS0/2kx6KHFi11A/s1600/apple.png
-  [7]: http://4.bp.blogspot.com/-R97bV8zsXXE/UmnP3JucEXI/AAAAAAAABSk/tFJKtgNiujQ/s1600/ancient_sword.png
-  [8]: http://3.bp.blogspot.com/-vSN2Qv_q8vs/UmnP59fm9HI/AAAAAAAABTw/YYOCMeXqsKA/s320/herobrineai_npcs.png
+  [0]: {filename}../images/herobrine/2012-10-13_14.52.14.png
+  [1]: {filename}../images/herobrine/bury_player.png
+  [2]: {filename}../images/herobrine/graveyard_world.png
+  [3]: {filename}../images/herobrine/herobrine_temple.png
+  [4]: {filename}../images/herobrine/bow.png
+  [5]: {filename}../images/herobrine/sword.png
+  [6]: {filename}../images/herobrine/apple.png
+  [7]: {filename}../images/herobrine/ancient_sword.png
+  [8]: {filename}../images/herobrine/herobrineai_npcs.png
