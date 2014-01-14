@@ -107,6 +107,10 @@ BLOCKS = (
      """),
 )
 
+# Comment
+DISQUS_SITENAME = 'moosworld'
+DISQUS_DISPLAY_COUNTS = True
+
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
 #BOOTSTRAP_THEME = 'readable'
