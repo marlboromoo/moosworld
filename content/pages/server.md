@@ -1,5 +1,5 @@
 Title: Server
-Dropdown: About
+Dropdown: Server
 
 play.moosworld.net:25565 / 硬派RP生存.
 

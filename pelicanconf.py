@@ -33,8 +33,10 @@ LINKS =  (('AchievementsGen1', 'https://amunak.net/projects/mcachievements/'),
           ('Textcraft', 'http://textcraft.net/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('twitter', '#'),
+#          ('github', '#'),
+#          ('rss', '#'),
+#         )
 
 DEFAULT_PAGINATION = 10
 
@@ -46,6 +48,18 @@ DISPLAY_PAGES_ON_MENU = True
 # Menu
 DISPLAY_CATEGORIES_ON_MENU = False
 DROPDOWN_MENU = True
+DROPDOWN_MENUITEMS = {
+    'Server' : (
+        ('DynMap', 'http://dynmap.moosworld.net'),
+        ('Map', 'http://map.moosworld.net'),
+        ('MCBans', 'http://mcbans.com/server/40833/play.moosworld.net/bans/')
+    ),
+    'Mods' : (
+        ('Download', 'http://download.moosworld.net'),
+    )
+}
+MENUITEMS = (
+)
 
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
