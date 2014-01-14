@@ -2,6 +2,7 @@ Title: Happy New Year 2014
 Date: 2013-12-31 18:06
 Author: noreply@blogger.com (MarlboroMoo)
 Slug: happy-new-year-2014
+Tags: event
 
 Dear, 以下為 2014 跨年小禮物得獎名單:
 

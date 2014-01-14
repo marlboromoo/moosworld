@@ -2,6 +2,7 @@ Title: 1.7.2 Ready
 Date: 2013-12-22 11:22
 Author: noreply@blogger.com (MarlboroMoo)
 Slug: 172-ready
+Tags: version, server
 
 Dear All,
 伺服器已升級到 1.7.2, 請記得更新你的客戶端, have fun :]
