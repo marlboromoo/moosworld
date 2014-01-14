@@ -122,7 +122,7 @@ DISQUS_DISPLAY_COUNTS = False
 #GITHUB_USER = 'marlboromoo'
 
 # Theme
-THEME = '/home/timothylee/project/pelican-bootstrap3/'
+THEME = './pelican-bootstrap3/'
 BOOTSTRAP_THEME = 'spacelab'
 #BOOTSTRAP_THEME = 'cyborg'
 
