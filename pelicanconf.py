@@ -116,5 +116,6 @@ GITHUB_USER = 'marlboromoo'
 
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
-#BOOTSTRAP_THEME = 'readable'
+BOOTSTRAP_THEME = 'spacelab'
+#BOOTSTRAP_THEME = 'cyborg'
 
