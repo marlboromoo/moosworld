@@ -60,6 +60,49 @@ DROPDOWN_MENUITEMS = {
 }
 MENUITEMS = (
 )
+BLOCKS = (
+    ('Server', 'fa-cloud', """IP: play.moosworld.net:25565 <div id="web_mcstatus-container">Loading ...</div>
+<script src="http://mcstatus.moosworld.net/web_mcstatus.js?host=play.moosworld.net" type="text/javascript"></script> """),
+    ('Donate', 'fa-usd', """
+     <span class="help-block">如果你覺得Moo's world帶給你很多樂趣, 或想要更好的遊戲品質, 非常歡迎實質上的支持! 多種的贊助方式可選擇:</span>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-inline">
+       <input type="hidden" name="cmd" value="_s-xclick" />
+       <input type="hidden" name="hosted_button_id" value="JLK9YM6J2F87W" />
+       <input type="hidden" name="on0" value="I love Moo&#39;s World" />
+       <select name="os0" class="form-control">
+          <option value="Stone" />Stone $5.00
+          <option value="Iron" />Iron $10.00
+          <option value="Gold" />Gold $20.00
+          <option value="Diamond" />Diamond $50.00
+       </select>
+       <input type="hidden" name="currency_code" value="USD" />
+       <input type="submit" value="GO" class="btn btn-default"/>
+       <span class="help-block">(使用Paypal贊助, 單位 USD.)</span>
+    </form>
+    <form name="donate_atm" class="form-inline">
+         <select name="menu" class="form-control">
+            <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=150&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Stone" />Stone $150
+            <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=300&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Iron" />Iron $300
+            <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=600&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Gold" />Gold $600
+            <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=1500&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Diamond" />Diamond $1500
+            </select>
+            <input type="button" id="button" class="btn btn-default"
+            onclick="window.open(document.donate_atm.menu.options[document.donate_atm.menu.selectedIndex].value);" value="GO" />
+        <span class="help-block">(使用ATM贊助, 單位 NTD.)</span>
+     </form>
+<form name="donate_barcode" class="form-inline">
+         <select name="menu" class="form-control">
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=150&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Stone" />Stone $150
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=300&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Iron" />Iron $300
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=600&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Gold" />Gold $600
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=1500&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Diamond" />Diamond $1500
+            </select>
+            <input type="button" id="button" class="btn btn-default"
+            onclick="window.open(document.donate_barcode.menu.options[document.donate_barcode.menu.selectedIndex].value);" value="GO" />
+            <span class="help-block">(使用超商條碼贊助, 單位 NTD.)</span>
+     </form>
+     """),
+)
 
 # Theme
 THEME = '/home/timothylee/project/pelican-bootstrap3/'
