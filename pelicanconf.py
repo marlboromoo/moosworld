@@ -10,8 +10,9 @@ TIMEZONE = 'Asia/Taipei'
 
 DEFAULT_LANG = u'utf8'
 
-# ICON
+# Brand
 FAVICON = 'images/favicon.ico'
+#SITEBRAND = 'images/MoosWorld_silver.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
