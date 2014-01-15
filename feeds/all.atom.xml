@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Moo's World</title><link href="http://moosworld.net/" rel="alternate"></link><link href="http://moosworld.net/feeds/all.atom.xml" rel="self"></link><id>http://moosworld.net/</id><updated>2014-01-15T01:06:00+08:00</updated><entry><title>Brand New Blog</title><link href="http://moosworld.net/brand-new-blog.html" rel="alternate"></link><updated>2014-01-15T01:06:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-01-15:brand-new-blog.html</id><summary type="html">&lt;p&gt;Blog 全新面貌, 特色:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;文件分類 - 方便查看&lt;/li&gt;
+&lt;li&gt;靜態網頁 - 效能更好&lt;/li&gt;
+&lt;li&gt;清除資料 - 刪除過時資訊&lt;/li&gt;
+&lt;li&gt;閱讀性更高的排版.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;希望你會喜歡, 任何的回饋都非常歡迎 (;&lt;/p&gt;</summary><category term="server"></category><category term="site"></category></entry><entry><title>Happy New Year 2014</title><link href="http://moosworld.net/happy-new-year-2014.html" rel="alternate"></link><updated>2013-12-31T18:06:00+08:00</updated><author><name>marlboromoo@gamil.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-31:happy-new-year-2014.html</id><summary type="html">&lt;p&gt;Dear, 以下為 2014 跨年小禮物得獎名單:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2000&lt;/li&gt;
+&lt;li&gt;firevic&lt;/li&gt;
+&lt;li&gt;happz2006&lt;/li&gt;
+&lt;li&gt;IvanDCat&lt;/li&gt;
+&lt;li&gt;s2202169&lt;/li&gt;
+&lt;li&gt;Samayuiske&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;禮物的內容有:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;稱號&lt;/li&gt;
+&lt;li&gt;[&lt;strong&gt;&lt;span style="color: red;"&gt;S&lt;/span&gt;&lt;span style="color: orange;"&gt;park&lt;/span&gt;&lt;/strong&gt;]&lt;/li&gt;
+&lt;li&gt;指令 /kit spark (內含各式煙火, 每24小時使用一次)&lt;/li&gt;
+&lt;li&gt;指令 /pet MagmaCube (招喚寵物: 熔岩史萊姆)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;祝大家新年快樂 !!!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</summary><category term="event"></category></entry><entry><title>1.7.2 Ready</title><link href="http://moosworld.net/172-ready.html" rel="alternate"></link><updated>2013-12-22T11:22:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-22:172-ready.html</id><summary type="html">&lt;p&gt;Dear All,
+伺服器已升級到 1.7.2, 請記得更新你的客戶端, have fun :]&lt;/p&gt;
+&lt;h3&gt;已知問題:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;狼人插件無法正常運作 (待作者更新)&lt;/li&gt;
+&lt;li&gt;因 1.7 版本大變動的關係, 許多底層元件, e.g., &lt;a href="http://www.minecraftforge.net/forum/"&gt;Forge&lt;/a&gt;, &lt;a href="http://www.minecraftforum.net/topic/75440-v162-risugamis-mods-updated/"&gt;ModLoader&lt;/a&gt;,
+&lt;a href="http://www.minecraftforum.net/topic/249637-164-optifine-hd-c7-fps-boost-hd-textures-aa-af-and-much-more/"&gt;OPTIFINE&lt;/a&gt; 更新進度遲緩導致其他的 Mod 也無法更新&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;參考資訊:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/C.php?bsn=18673&amp;amp;snA=35796"&gt;1.7.2 中文輸入(含安裝教學)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://download.moosworld.net/1_7_2/mod/"&gt;1.7.2 中文輸入 for Magic launcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/Co.php?bsn=18673&amp;amp;sn=99012"&gt;Magic launcher 中文教學&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="version"></category><category term="server"></category></entry></feed>
