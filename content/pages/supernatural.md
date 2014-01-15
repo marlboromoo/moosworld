@@ -1,8 +1,4 @@
 Title: Supernatural
-Date: 2014-01-08 03:52
-Author: noreply@blogger.com (MarlboroMoo)
-Tags: Doc, Plugins
-Slug: supernatural
 Dropdown: Plugins
 
 ## 序言

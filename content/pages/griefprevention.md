@@ -1,8 +1,4 @@
 Title: GriefPrevention
-Date: 2013-12-26 02:09
-Author: noreply@blogger.com (MarlboroMoo)
-Tags: Doc, Plugins
-Slug: griefprevention
 Dropdown: Plugins
 
 ### 如何新增領地?
