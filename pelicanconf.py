@@ -124,6 +124,7 @@ DISQUS_DISPLAY_COUNTS = False
 
 # Theme
 THEME = './pelican-bootstrap3/'
-BOOTSTRAP_THEME = 'spacelab'
+#BOOTSTRAP_THEME = 'spacelab'
 #BOOTSTRAP_THEME = 'cyborg'
+BOOTSTRAP_THEME = 'readable-old'
 
