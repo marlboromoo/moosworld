@@ -1,9 +1,7 @@
 Title: Plugins
 Dropdown: Plugins
 
-[Spigot][] [1.7.2-R0.3\#1213][]
-
-## 已安裝插件
+### 已安裝插件
 * [BloodMoon][]
 * [Bloodshed][]
 * [BringBackTheEnd][]
@@ -51,7 +49,7 @@ Dropdown: Plugins
 * <s>[ZombieApocalypse][]</s>
 * [ZavAutoMessager][]
 
-## 欲安裝插件
+### 欲安裝插件
 * [AntiCheat][]
 * [BattleArena][]
 * [BlazeFly][]
@@ -72,7 +70,7 @@ Dropdown: Plugins
 * [Skeleton Boss][]
 * [Storm][]
 
-## 浩劫伺服器
+### 浩劫伺服器
 * [Apocalyptic][]
 * [RadioBeacon][]
 * [Solar Apocalypse][]
