@@ -3,7 +3,7 @@
       xmlns:og="http://ogp.me/ns#"
       xmlns:fb="https://www.facebook.com/2008/fbml">
 <head>
-    <title>GriefPrevention</title>
+    <title>Lockette</title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -13,8 +13,8 @@
 
     <!-- Open Graph tags -->
             <meta property="og:type" content="article"/>
-            <meta property="og:title" content="GriefPrevention"/>
-            <meta property="og:url" content="http://moosworld.net/pages/griefprevention.html"/>
+            <meta property="og:title" content="Lockette"/>
+            <meta property="og:url" content="http://moosworld.net/pages/lockette.html"/>
 
     <!-- Bootstrap -->
         <link rel="stylesheet" href="http://moosworld.net/theme/css/bootstrap.readable-old.min.css" type="text/css"/>
@@ -101,49 +101,40 @@ Moo's World            </a>
         <div class="col-sm-9">
 
     <section id="content" class="body">
-        <h1 class="entry-title">GriefPrevention</h1>
+        <h1 class="entry-title">Lockette</h1>
         
         <div class="entry-content">
-            <h3>如何新增領地?</h3>
-<p>首先你必須先取得<a href="http://zh.minecraftwiki.net/%E9%94%B9">金鏟子(shovel)</a>並拿在手上, 接著在你想保護的土地範圍左上角按
-下滑鼠右鍵, 然後在想保護的土地範圍右下角再按一次滑鼠右鍵, 完成!</p>
-<h3>為啥地上會出現奇怪的磚塊?</h3>
-<p>那是方便你確認領地範圍的標記, 它們無法被挖掘, 會於一段時間後消失.</p>
-<h3>如何顯示標記或相關領地資訊?</h3>
-<p>在領地內右鍵使用<a href="http://zh.minecraftwiki.net/wiki/Stick">木棒(stick)</a>.</p>
-<h3>如何取得更多領地?</h3>
-<p>你的可用領地數量將會隨著遊戲時間慢慢增加.</p>
-<h3>如何改變領地大小?</h3>
-<p>在領地內右鍵使用<a href="http://zh.minecraftwiki.net/wiki/Stick">木棒(stick)</a>讓標記出現, 並且把<a href="http://zh.minecraftwiki.net/%E9%94%B9">金鏟子(shovel)</a>拿在手上, 於
-任意一個角落的<a href="http://zh.minecraftwiki.net/wiki/%E8%90%A4%E7%9F%B3%E5%9D%97">螢光石(glowstone)</a>按下右鍵, 接著走到新的範圍的同一個角落按下右
-鍵, 領地就會朝著那個角落擴大或縮小.</p>
-<h3>如何刪除領地?</h3>
-<p>站在領地內, 並輸入以下指令:</p>
+            <h2>簡介</h2>
+<p>怕被闖空門/偷東西? 那就鎖起來!</p>
+<h2>使用</h2>
+<p>你所需要的材料只有告示排(sign).</p>
+<h3>基礎用法</h3>
 <ul>
-<li><code>/AbandonClaim</code> - 刪除你所位於的領地.</li>
-<li><code>/AbandonAllClaims</code> - 刪除你所有的領地.</li>
+<li>製作出箱子(chest), 門(door), 告示排(sign)</li>
+<li>將箱子放置在任意地方</li>
+<li>將告示排放在箱子/門前方</li>
+<li>在告示排第一行輸入 <code>[Private]</code>, 第 2 行輸入你的名稱</li>
+<li>在告示排第 3/4 行輸入共用的玩家名稱 (<strong><em>可省略</em></strong>)</li>
+<li>箱子會和告示排合體, 完成</li>
 </ul>
-<h3>如何和其他的玩家分享領地?</h3>
-<p>站在領地裡並輸入指令, 目前有三種等級的權限可供分享, 以下為對應的指令:</p>
+<h3>更多使用者</h3>
+<p>如果要分享的玩家太多而塞不進告示排裡, 可按照以下方式擴充.</p>
 <ul>
-<li><code>/Trust</code> &lt;玩家名稱&gt; - 完全分享權限, 這個玩家擁有和你一樣的領地權限.</li>
-<li><code>/AccessTrust</code> &lt;玩家名稱&gt; - 玩家只能使用按鈕/開關/床.</li>
-<li><code>/ContainerTrust</code> &lt;玩家名稱&gt; - 玩家能使用按鈕/開關/床/合成工具/容器/動物.</li>
+<li>擺放額外的告示排(sign)</li>
+<li>第一行輸入 <code>[More Users]</code></li>
+<li>其他行輸入玩家名稱</li>
 </ul>
-<p>p.s 以上指令縮寫為 <code>/t</code>, <code>/at</code>, <code>/ct</code></p>
-<h3>如何刪除其他玩家的權限?</h3>
-<p>站在領地裡並輸入以下指令:</p>
+<h3>關門計時器</h3>
+<p>在門上的告示排的 3/4 行輸入 <code>[Timer: #]</code>, <code>#</code> 請替換成數字(秒), 當門被開啟到達設
+定的秒數將會自動關閉.</p>
+<h3>和大家共用</h3>
+<p>將 <code>[Private]</code> 改成 <code>[Everyone]</code> 即可.</p>
+<h3>修改內容</h3>
 <ul>
-<li><code>/UnTrust</code> &lt;玩家名稱&gt; - 刪除某一個玩家的權限.</li>
-<li><code>/UnTrust All</code> - 刪除全部玩家的權限.</li>
+<li>右鍵按一下已生效的告示排(sign)</li>
+<li>按下 <code>T</code></li>
+<li>輸入 <code>/lockette [行數] [玩家名稱]</code> 來修改</li>
 </ul>
-<p>p.s 以上指令縮寫為 <code>/ut</code></p>
-<h3>如何劃分子領地?</h3>
-<p>和一般領地的操作模式一樣, 但你必須先輸入指令 <code>/SubdivideClaims</code>, 如要切換回來請輸
-入 <code>/BasicClaims</code>.</p>
-<p>p.s 以上指令縮寫為 <code>/sc</code>, <code>/bc</code></p>
-<h3>如何開啟/關閉防爆模式?</h3>
-<p>防爆模式預設已開啟, 如要切換請輸入 <code>/claimexplosions</code>.</p>
         </div>
     </section>
         </div>
