@@ -136,6 +136,7 @@ BLOCKS = (
 DISQUS_SITENAME = 'moosworld'
 DISQUS_DISPLAY_COUNTS = True
 SCROLLBACK_ROOMID = 'moosworld'
+GOOGLE_ANALYTICS = 'UA-47167043-1'
 
 # Social
 #GITHUB_USER = 'marlboromoo'
