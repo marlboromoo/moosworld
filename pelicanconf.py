@@ -145,3 +145,6 @@ THEME = './pelican-bootstrap3/'
 #BOOTSTRAP_THEME = 'cyborg'
 BOOTSTRAP_THEME = 'readable-old'
 
+# License
+CC_LICENSE = 'CC-BY-NC-SA'
+CC_ATTR_MARKUP = False
