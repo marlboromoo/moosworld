@@ -1,6 +1,6 @@
 Title: Happy New Year 2014
 Date: 2013-12-31 18:06
-Author: noreply@blogger.com (MarlboroMoo)
+Author: marlboromoo@gamil.com (marlboromoo)
 Slug: happy-new-year-2014
 Tags: event
 

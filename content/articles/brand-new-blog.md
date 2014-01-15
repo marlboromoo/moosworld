@@ -1,6 +1,6 @@
 Title: Brand New Blog
 Date: 2014-01-15 01:06
-Author: marlboromoo@gmail.com (MarlboroMoo)
+Author: marlboromoo@gmail.com (marlboromoo)
 Slug: brand-new-blog
 Tags: server, site
 

@@ -1,6 +1,6 @@
 Title: 1.7.2 Ready
 Date: 2013-12-22 11:22
-Author: noreply@blogger.com (MarlboroMoo)
+Author: marlboromoo@gmail.com (marlboromoo)
 Slug: 172-ready
 Tags: version, server
 
