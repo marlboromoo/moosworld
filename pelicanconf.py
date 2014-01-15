@@ -4,9 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'marlboromoo'
 SITENAME = u"Moo's World"
-#SITEURL = 'http://127.0.0.1:8000'
-#SITEURL = 'http://marlboromoo.github.io/moosworld'
 SITEURL = 'http://moosworld.net'
+#SITEURL = 'http://127.0.0.1:8000'
 
 
 TIMEZONE = 'Asia/Taipei'
@@ -17,7 +16,7 @@ DEFAULT_LANG = u'en'
 FAVICON = 'images/favicon.ico'
 #SITEBRAND = 'images/MoosWorld_silver.png'
 
-# Feed generation is usually not desired when developing
+# Feed
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = None
@@ -138,13 +137,8 @@ DISQUS_DISPLAY_COUNTS = True
 SCROLLBACK_ROOMID = 'moosworld'
 GOOGLE_ANALYTICS = 'UA-47167043-1'
 
-# Social
-#GITHUB_USER = 'marlboromoo'
-
 # Theme
 THEME = './pelican-bootstrap3/'
-#BOOTSTRAP_THEME = 'spacelab'
-#BOOTSTRAP_THEME = 'cyborg'
 BOOTSTRAP_THEME = 'readable-old'
 
 # License
