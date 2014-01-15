@@ -12,21 +12,22 @@
     <link href="http://moosworld.net/images/favicon.ico" rel="icon">
 
     <!-- Open Graph tags -->
-
             <meta property="og:type" content="website"/>
             <meta property="og:title" content="Moo's World"/>
             <meta property="og:url" content="http://moosworld.net"/>
             <meta property="og:description" content="Moo's World"/>
 
     <!-- Bootstrap -->
-        <link rel="stylesheet" href="http://moosworld.net/theme/css/bootstrap.spacelab.min.css" type="text/css"/>
+        <link rel="stylesheet" href="http://moosworld.net/theme/css/bootstrap.readable-old.min.css" type="text/css"/>
     <link href="http://moosworld.net/theme/css/font-awesome.min.css" rel="stylesheet">
+
     <link href="http://moosworld.net/theme/css/pygments.css" rel="stylesheet">
     <link rel="stylesheet" href="http://moosworld.net/theme/css/style.css" type="text/css"/>
 
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -91,12 +92,26 @@ Moo's World            </a>
         </div>
         <!-- /.navbar-collapse -->
     </div>
-</nav>
-<!-- /.navbar -->
+</div> <!-- /.navbar -->
+
 <div class="container">
     <div class="row">
         <div class="col-sm-9">
 
+            <article>
+                <h2><a href="http://moosworld.net/brand-new-blog.html">Brand New Blog</a></h2>
+                <div class="summary"><p>Blog 全新面貌, 特色:</p>
+<ul>
+<li>文件分類 - 方便查看</li>
+<li>靜態網頁 - 效能更好</li>
+<li>清除資料 - 刪除過時資訊</li>
+<li>閱讀性更高的排版.</li>
+</ul>
+<p>希望你會喜歡, 任何的回饋都非常歡迎 (;</p>
+                    <a class="btn btn-default btn-xs" href="http://moosworld.net/brand-new-blog.html">more ...</a>
+                </div>
+            </article>
+            <hr/>
             <article>
                 <h2><a href="http://moosworld.net/happy-new-year-2014.html">Happy New Year 2014</a></h2>
                 <div class="summary"><p>Dear, 以下為 2014 跨年小禮物得獎名單:</p>
@@ -154,50 +169,73 @@ Moo's World            </a>
                 
     <p>如果你覺得Moo's world帶給你很多樂趣, 或想要更好的遊戲品質, 非常歡迎實質上的支持! 多種的贊助方式可選擇:</p>
     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" class="form-inline">
-       <input type="hidden" name="cmd" value="_s-xclick" />
-       <input type="hidden" name="hosted_button_id" value="JLK9YM6J2F87W" />
-       <input type="hidden" name="on0" value="I love Moo&#39;s World" />
-       <select name="os0" class="form-control">
-          <option value="Stone" />Stone $5.00
-          <option value="Iron" />Iron $10.00
-          <option value="Gold" />Gold $20.00
-          <option value="Diamond" />Diamond $50.00
-       </select>
-       <input type="hidden" name="currency_code" value="USD" />
-       <input type="submit" value="GO" class="btn btn-default"/>
-       <span class="help-block">(使用Paypal贊助, 單位 USD.)</span>
+      <input type="hidden" name="cmd" value="_s-xclick" />
+      <input type="hidden" name="hosted_button_id" value="JLK9YM6J2F87W" />
+      <input type="hidden" name="on0" value="I love Moo&#39;s World" />
+      <input type="hidden" name="currency_code" value="USD" />
+      <div class="row">
+         <div class="col-xs-7">
+           <select name="os0" class="form-control input-sm">
+             <option value="Stone" />Stone $5.00
+             <option value="Iron" />Iron $10.00
+             <option value="Gold" />Gold $20.00
+             <option value="Diamond" />Diamond $50.00
+           </select>
+         </div>
+         <div class="col-xs-5">
+           <input type="submit" value="GO" class="btn btn-default btn-sm"/>
+         </div>
+      </div>
+      <span class="help-block">(使用Paypal贊助, 單位 USD.)</span>
     </form>
     <form name="donate_atm" class="form-inline">
-         <select name="menu" class="form-control">
+      <div class="row">
+        <div class="col-xs-7">
+          <select name="menu" class="form-control input-sm">
             <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=150&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Stone" />Stone $150
             <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=300&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Iron" />Iron $300
             <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=600&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Gold" />Gold $600
             <option value="https://ecbank.com.tw/order/express.php?method=vacc&mer_id=6915&amt=1500&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Diamond" />Diamond $1500
-            </select>
-            <input type="button" id="button" class="btn btn-default"
-            onclick="window.open(document.donate_atm.menu.options[document.donate_atm.menu.selectedIndex].value);" value="GO" />
-        <span class="help-block">(使用ATM贊助, 單位 NTD.)</span>
-     </form>
-<form name="donate_barcode" class="form-inline">
-         <select name="menu" class="form-control">
-            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=150&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Stone" />Stone $150
-            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=300&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Iron" />Iron $300
-            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=600&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Gold" />Gold $600
-            <option value="https://ecbank.com.tw/order/express.php?method=barcode&amp;mer_id=6915&amp;amt=1500&amp;expire_day=15&amp;item_desc=I%20love%20Moo%27s%20World%20-%20Diamond" />Diamond $1500
-            </select>
-            <input type="button" id="button" class="btn btn-default"
-            onclick="window.open(document.donate_barcode.menu.options[document.donate_barcode.menu.selectedIndex].value);" value="GO" />
-            <span class="help-block">(使用超商條碼贊助, 單位 NTD.)</span>
-     </form>
+          </select>
+        </div>
+        <div class="col-xs-5">
+          <input type="button" id="button" class="btn btn-default btn-sm"
+          onclick="window.open(document.donate_atm.menu.options[document.donate_atm.menu.selectedIndex].value);" value="GO" />
+        </div>
+      </div>
+      <span class="help-block">(使用ATM贊助, 單位 NTD.)</span>
+    </form>
+    <form name="donate_barcode" class="form-inline">
+      <div class="row">
+        <div class="col-xs-7">
+          <select name="menu" class="form-control input-sm">
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&mer_id=6915&amt=150&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Stone" />Stone $150
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&mer_id=6915&amt=300&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Iron" />Iron $300
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&mer_id=6915&amt=600&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Gold" />Gold $600
+            <option value="https://ecbank.com.tw/order/express.php?method=barcode&mer_id=6915&amt=1500&expire_day=15&item_desc=I%20love%20Moo%27s%20World%20-%20Diamond" />Diamond $1500
+          </select>
+        </div>
+        <div class="col-xs-5">
+          <input type="button" id="button" class="btn btn-default btn-sm"
+          onclick="window.open(document.donate_barcode.menu.options[document.donate_barcode.menu.selectedIndex].value);" value="GO" />
+        </div>
+      </div>
+      <span class="help-block">(使用超商條碼贊助, 單位 NTD.)</span>
+    </form>
      
 
 
 
 
                 <li class="list-group-item"><a href="http://moosworld.net/"><h4><i class="fa fa-tags fa-lg"></i>Tags</h4></a></li>
+                        <li class="list-group-item tag-1">
+                            <a href="http://moosworld.net/tag/server.html">
+                                server
+                            </a>
+                        </li>
                         <li class="list-group-item tag-4">
-                            <a href="http://moosworld.net/tag/event.html">
-                                event
+                            <a href="http://moosworld.net/tag/site.html">
+                                site
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
@@ -206,8 +244,8 @@ Moo's World            </a>
                             </a>
                         </li>
                         <li class="list-group-item tag-4">
-                            <a href="http://moosworld.net/tag/server.html">
-                                server
+                            <a href="http://moosworld.net/tag/event.html">
+                                event
                             </a>
                         </li>
 
@@ -293,15 +331,16 @@ Moo's World            </a>
     </div>
 </div>
 <footer>
-    <div class="container">
-        <hr>
-        <p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p>
-
-
-        <p>&copy; 2013 marlboromoo &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
+   <div class="container">
+      <hr>
+      <div class="row">
+         <div class="col-xs-10">&copy; 2014 marlboromoo
+            &middot; Powered by <a href="https://github.com/DandyDev/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
-            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a></p>
-    </div>
+            <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
+         <div class="col-xs-2"><p class="pull-right"><i class="fa fa-arrow-up"></i> <a href="#">Back to top</a></p></div>
+      </div>
+   </div>
 </footer>
 <!-- JavaScript plugins (requires jQuery) -->
 <script src="http://code.jquery.com/jquery.js"></script>
