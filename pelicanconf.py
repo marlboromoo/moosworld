@@ -136,7 +136,7 @@ BLOCKS = (
 
 # Comment
 DISQUS_SITENAME = 'moosworld'
-DISQUS_DISPLAY_COUNTS = False
+DISQUS_DISPLAY_COUNTS = True
 
 # Social
 #GITHUB_USER = 'marlboromoo'
