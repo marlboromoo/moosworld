@@ -132,9 +132,10 @@ BLOCKS = (
      """),
 )
 
-# Comment
+# 3rd Services
 DISQUS_SITENAME = 'moosworld'
 DISQUS_DISPLAY_COUNTS = True
+SCROLLBACK_ROOMID = 'moosworld'
 
 # Social
 #GITHUB_USER = 'marlboromoo'
