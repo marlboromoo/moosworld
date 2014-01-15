@@ -46,14 +46,12 @@ LINKS =  (('AchievementsGen1', 'https://amunak.net/projects/mcachievements/'),
 #          ('rss', '#'),
 #         )
 
+# Layout
 DEFAULT_PAGINATION = 10
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-DISPLAY_PAGES_ON_MENU = True
+SUMMARY_MAX_LENGTH = 30
 
 # Menu
+DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
 DROPDOWN_MENU = True
 DROPDOWN_MENUITEMS = {
