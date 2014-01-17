@@ -25,11 +25,12 @@ MarlboroMoo  aka Moo, 如果伺服器有任何問題, 都請 [Mail] [marlboromoo
 ### OPs
 熱情的OP們, 發現問題, 第一時間請通知他們協助處理.
 
-* [ufo00816] []
-* [leoiverson] []
-* meelktea
-* [tady92107] []
-* [Brutus_Chang] []
+ * [ufo00816] []
+ * [leoiverson] []
+ * meelktea
+ * [tady92107] []
+ * [Brutus_Chang] []
+
 
   [marlboromoo]: mailto:marlboromoo@gmail.com
   [ufo00816]: mailto:ufo00816@gmail.com

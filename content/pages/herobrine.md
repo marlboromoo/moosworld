@@ -43,11 +43,11 @@ Dropdown: Plugins
 ## 神器
 所有的神器只能在神廟找到.
 
-* [![image][4]][4]傳送神弓(Bow of Teleporting)
-傳送玩家到弓箭所擊中的地方. ***用法***: 使用弓箭射出箭矢.
-* [![image][5]][5]閃電之劍(Sword of Lighting)
-* [![image][6]][6]死亡蘋果(Apple of Death)
-* [![image][7]][7]古老的劍(Ancient Sword)
+  * [![image][4]][4]傳送神弓(Bow of Teleporting)
+  傳送玩家到弓箭所擊中的地方. ***用法***: 使用弓箭射出箭矢.
+  * [![image][5]][5]閃電之劍(Sword of Lighting)
+  * [![image][6]][6]死亡蘋果(Apple of Death)
+  * [![image][7]][7]古老的劍(Ancient Sword)
 
 這把劍讓你有能力對抗 Herobrine.
 
@@ -55,6 +55,7 @@ Dropdown: Plugins
 Herobrine 所招喚的 NPC 們.
 
 [![image][8]][8]
+
 
   [Herobrine]: http://minecraft-zh.gamepedia.com/index.php?title=Herobrine&variant=zh-tw
   [0]: {filename}../images/herobrine/2012-10-13_14.52.14.png

@@ -2,7 +2,8 @@ Title: Supernatural
 Dropdown: Plugins
 
 ## 序言
-更多的超自然生物出現在這個大陸, 你選擇加入並分享他們的邪惡力量, 或是消滅它們維持世界的秩序呢?
+更多的超自然生物出現在這個大陸, 你選擇加入並分享他們的邪惡力量, 或是消滅它們維
+持世界的秩序呢?
 
 ## 職業事件
 每個職業都有獨特的加入/或離開事件.
@@ -12,17 +13,22 @@ Dropdown: Plugins
 * 人類有時在夜晚被野狼咬到時轉換為狼人(Werewolves).
 * 殭屍豬人(Pig Zombies)有時會使人類變成邪惡生物而不是直接死亡.
 * 任何人類對教會展現他們的忠誠有機會成為牧師(Priest).
-* 任何不是牧師(Priest)的人類在沒有死亡的狀態下殺掉三種不同的超自然生物, 將會受到女巫獵人(WitchHunter)協會的肯定而成為他們的一份子.
-* 穿帶著死亡動物毛皮(leather armor)的人類在終界(Nether)將自己奉獻給烈焰將會變成惡魔(Demon).
-* 任何隨意玩弄終界珍珠(Ender Pearls)和黏土(Clay)的人類將會使他們的餘生永遠被改變.
+* 任何不是牧師(Priest)的人類在沒有死亡的狀態下殺掉三種不同的超自然生物,
+  將會受到女巫獵人(WitchHunter)協會的肯定而成為他們的一份子.
+* 穿帶著死亡動物毛皮(leather armor)的人類在終界(Nether)將自己奉獻給烈焰將會變成
+  惡魔(Demon).
 * 人類使用他們的翅膀(feather)從懸崖跳下將會找到他們靈魂的方向.
 
 ### 離開
-* 吸血鬼(Vampires)建設特殊的祭壇來回復他們的人性, 一個青金石塊(Lapis Block)並在周為七格內放置20個螢光石(Glowstone), 形式不拘.
-* 狼人(Werewolves)必須為他們自己製造狼人治癒藥水(Wolfbane potion), 使用空碗(Empty Bowl), 黃花(Yellow Flower)\*10, 紅玫瑰(Red Rose)\*10, 棕蘑菇(Brown Mushroom)\*10, 紅蘑菇(Red Mushroom)\*10 來製造.
+* 吸血鬼(Vampires)建設特殊的祭壇來回復他們的人性, 一個青金石塊(Lapis Block)並在
+  周為七格內放置20個螢光石(Glowstone), 形式不拘.
+* 狼人(Werewolves)必須為他們自己製造狼人治癒藥水(Wolfbane potion), 使用空碗
+  (Empty Bowl), 黃花(Yellow Flower)\*10, 紅玫瑰(Red Rose)\*10, 棕蘑菇
+  (Brown Mushroom)\*10, 紅蘑菇(Red Mushroom)\*10 來製造.
 * 牧師(Priests)透過捐獻煤塊給祭壇來汙辱教會而被驅逐.
 * 教會的祭壇有時會清除食屍鬼(Ghoul)身上的罪孽並回復它們的人性.
-* 惡魔(Demons)帶著雪球(snowball)\*30 並溺斃在冰冷的水中會使血液中的惡魔火焰被澆熄.
+* 惡魔(Demons)帶著雪球(snowball)\*30 並溺斃在冰冷的水中會使血液中的惡魔火焰被澆
+  熄.
 * 女巫獵人(WitchHunters)展現他們差勁的箭術(殺死自己)而從公會被除名.
 * 天使(Angel)在岩漿裡死亡將會被去除神聖力量.
 
@@ -158,7 +164,8 @@ Dropdown: Plugins
 * 被動能力
     - 沒有墜落傷害.
 * 主動能力
-    - 能招喚狼(wolves), 豬(pigs), 和牛(cows). (左鍵點擊: 動物掉落物[狼被骨頭招喚], 消耗 5000 能量)
+    - 能招喚狼(wolves), 豬(pigs), 和牛(cows). (左鍵點擊: 動物掉落物
+     [狼被骨頭招喚], 消耗 5000 能量)
     - 治療(Heal)玩家 (左鍵點擊: 羽毛(feather), 消耗 3000 能量)
     - 治癒(Cure)超自然生物 (左鍵點擊: 紙張(paper), 消耗 6000 能量)
     - 超級跳躍(Super-jump) (左鍵點擊: 黃花(yellow flower), 消耗 1000 能量)
@@ -167,7 +174,8 @@ Dropdown: Plugins
     - 無法使用鑽石劍(Diamond sword)傷害動物.
 
 ## 法術細節
-* 關於'超自然生物'(Supernatural)這個名詞所指的有吸血鬼(Vampire), 狼人(Werewolve), 食屍鬼(Ghoul), 還有惡魔(Demon).
+* 關於'超自然生物'(Supernatural)這個名詞所指的有吸血鬼(Vampire),
+  狼人(Werewolve), 食屍鬼(Ghoul), 還有惡魔(Demon).
 * 所有的法術都會消耗用來施展它們的物品.
 * 所有法術所需的施展物品必須拿在手上.
 * 牧師(Priest)的法術施展範圍在20格之內.
@@ -175,11 +183,13 @@ Dropdown: Plugins
 * 惡魔(Demon)的轉換(Convert)法術只會轉換手持地獄石(netherrack)的玩家
 * 流失(Drain)將會移除目標玩家目前能量的15%
 * 治療(Heal)每次回復5顆心
-* 治癒(Cure)將會復原目標的人性(回復它們的聖職或單純回復為人類) [牧師(Priest)和目標都需要手持燧石(Flint)才能使這個法術作用]
+* 治癒(Cure)將會復原目標的人性(回復它們的聖職或單純回復為人類) [牧師(Priest)
+  和目標都需要手持燧石(Flint)才能使這個法術作用]
 * 淨化(Exorcise)也會復原目標的人性, 但是不須要目標的協作!
 * 惡魔(Demon)的牢籠(Snare)最長10秒鐘.
 * 左鍵點擊弓來切換女巫獵人(WitchHunter)的箭矢
-* 女巫獵人(WitchHunter)的能量箭矢(Power Arrow)將會使弓進入冷卻(cooldown)狀態直到可再度使用.
+* 女巫獵人(WitchHunter)的能量箭矢(Power Arrow)將會使弓進入冷卻(cooldown)
+  狀態直到可再度使用.
 * 吸血鬼(Vampires)穿上金頭盔(Gold Helm)時對陽光的傷害免疫
 * 食屍鬼(Ghouls)的邪惡纏繞(Unholy Bond)讓它只要能和目標靠近就能分享所受到的傷害
 * 牧師(Priests)的守護天使(Guardian Angel)將會使他的保護目標免於一次的死亡

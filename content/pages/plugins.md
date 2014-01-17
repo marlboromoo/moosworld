@@ -5,48 +5,48 @@ Dropdown: Plugins
 * [BloodMoon][]
 * [Bloodshed][]
 * [BringBackTheEnd][]
-* <s>[ChairsReloaded][]</s>
+* <del>[ChairsReloaded][]</del>
 * [CoreProtect][]
-* <s>[Corruption][]</s>
-* <s>[CommandBook][]</s>
+* <del>[Corruption][]</del>
+* <del>[CommandBook][]</del>
 * [CreativeGates][]
 * [Death Messages][]
-* <s>[DisguiseCraft][]</s>
+* <del>[DisguiseCraft][]</del>
 * [Dynmap][]
 * [Dynmap-GriefPrevention][]
 * [EchoPet][]
 * [Essentials][]
 * [Grief Prevention][]
-* <s>[Herobrine][]</s>
+* <del>[Herobrine][]</del>
 * [Herobrine AI][]
 * [InfoBook][]
-* <s>[Likeaboss][]</s>
+* <del>[Likeaboss][]</del>
 * [Lockette][]
 * [MCBans][]
 * [mcMMO][]
 * [mmSupernaturals][]
 * [MobArena][]
-* <s>[MonsterMadness][]</s>
-* <s>[More Mobs][]</s>
+* <del>[MonsterMadness][]</del>
+* <del>[More Mobs][]</del>
 * [Multiverse-Core][]
-* <s>[Multiverse-Inventories][]</s>
-* <s>[Multiverse-Portals][]</s>
-* <s>[NoCheatPlus][]</s>
+* <del>[Multiverse-Inventories][]</del>
+* <del>[Multiverse-Portals][]</del>
+* <del>[NoCheatPlus][]</del>
 * [OtherDrops][]
-* <s>[OtherZombies][]</s>
+* <del>[OtherZombies][]</del>
 * [ProtocolLib][]
 * [PurpleIRC][]
 * [RPGHealth][]
 * [PvPTime][]
-* <s>[TogglePvP][]</s>
+* <del>[TogglePvP][]</del>
 * [TrophyHeads][]
-* <s>[Vampire][]</s>
-* <s>[Werewolf][]</s>
+* <del>[Vampire][]</del>
+* <del>[Werewolf][]</del>
 * [WorldBorder][]
 * [WorldEdit][]
 * [WorldGuard][]
 * [YAPP][]
-* <s>[ZombieApocalypse][]</s>
+* <del>[ZombieApocalypse][]</del>
 * [ZavAutoMessager][]
 
 ### 欲安裝插件
@@ -75,6 +75,7 @@ Dropdown: Plugins
 * [RadioBeacon][]
 * [Solar Apocalypse][]
 * [Toxicity][]
+
 
   [Spigot]: http://www.spigotmc.org/
   [1.7.2-R0.3\#1213]: http://ci.md-5.net/job/Spigot/1213/
