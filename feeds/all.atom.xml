@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Moo's World</title><link href="http://moosworld.net/" rel="alternate"></link><link href="http://moosworld.net/feeds/all.atom.xml" rel="self"></link><id>http://moosworld.net/</id><updated>2014-01-15T01:06:00+08:00</updated><entry><title>Brand New Blog</title><link href="http://moosworld.net/brand-new-blog.html" rel="alternate"></link><updated>2014-01-15T01:06:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-01-15:brand-new-blog.html</id><summary type="html">&lt;p&gt;Blog 全新面貌, 特色:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Moo's World</title><link href="http://moosworld.net/" rel="alternate"></link><link href="http://moosworld.net/feeds/all.atom.xml" rel="self"></link><id>http://moosworld.net/</id><updated>2014-01-15T01:06:00+08:00</updated><entry><title>Brand New Blog</title><link href="http://moosworld.net/brand-new-blog.html" rel="alternate"></link><updated>2014-01-15T01:06:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-01-15:brand-new-blog.html</id><summary type="html">&lt;p&gt;Blog 全新面貌,&amp;nbsp;特色:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;文件分類 - 方便查看&lt;/li&gt;
-&lt;li&gt;靜態網頁 - 效能更好&lt;/li&gt;
-&lt;li&gt;清除資料 - 刪除過時資訊&lt;/li&gt;
+&lt;li&gt;文件分類 -&amp;nbsp;方便查看&lt;/li&gt;
+&lt;li&gt;靜態網頁 -&amp;nbsp;效能更好&lt;/li&gt;
+&lt;li&gt;清除資料 -&amp;nbsp;刪除過時資訊&lt;/li&gt;
 &lt;li&gt;閱讀性更高的排版.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;希望你會喜歡, 任何的回饋都非常歡迎 (;&lt;/p&gt;</summary><category term="server"></category><category term="site"></category></entry><entry><title>Happy New Year 2014</title><link href="http://moosworld.net/happy-new-year-2014.html" rel="alternate"></link><updated>2013-12-31T18:06:00+08:00</updated><author><name>marlboromoo@gamil.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-31:happy-new-year-2014.html</id><summary type="html">&lt;p&gt;Dear, 以下為 2014 跨年小禮物得獎名單:&lt;/p&gt;
+&lt;p&gt;希望你會喜歡, 任何的回饋都非常歡迎&amp;nbsp;(;&lt;/p&gt;</summary><category term="server"></category><category term="site"></category></entry><entry><title>Happy New Year 2014</title><link href="http://moosworld.net/happy-new-year-2014.html" rel="alternate"></link><updated>2013-12-31T18:06:00+08:00</updated><author><name>marlboromoo@gamil.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-31:happy-new-year-2014.html</id><summary type="html">&lt;p&gt;Dear, 以下為 2014&amp;nbsp;跨年小禮物得獎名單:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2000&lt;/li&gt;
 &lt;li&gt;firevic&lt;/li&gt;
@@ -19,20 +19,51 @@
 &lt;ul&gt;
 &lt;li&gt;稱號&lt;/li&gt;
 &lt;li&gt;[&lt;strong&gt;&lt;span style="color: red;"&gt;S&lt;/span&gt;&lt;span style="color: orange;"&gt;park&lt;/span&gt;&lt;/strong&gt;]&lt;/li&gt;
-&lt;li&gt;指令 /kit spark (內含各式煙火, 每24小時使用一次)&lt;/li&gt;
-&lt;li&gt;指令 /pet MagmaCube (招喚寵物: 熔岩史萊姆)&lt;/li&gt;
+&lt;li&gt;指令 /kit spark (內含各式煙火,&amp;nbsp;每24小時使用一次)&lt;/li&gt;
+&lt;li&gt;指令 /pet MagmaCube (招喚寵物:&amp;nbsp;熔岩史萊姆)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;祝大家新年快樂 !!!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</summary><category term="event"></category></entry><entry><title>1.7.2 Ready</title><link href="http://moosworld.net/172-ready.html" rel="alternate"></link><updated>2013-12-22T11:22:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-22:172-ready.html</id><summary type="html">&lt;p&gt;Dear All,
-伺服器已升級到 1.7.2, 請記得更新你的客戶端, have fun :]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;祝大家新年快樂&amp;nbsp;!!!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;</summary><category term="event"></category></entry><entry><title>Login: Bad Login</title><link href="http://moosworld.net/login-bad-login.html" rel="alternate"></link><updated>2013-12-25T02:00:00+08:00</updated><author><name>noreply@blogger.com (MarlboroMoo)</name></author><id>tag:moosworld.net,2013-12-25:login-bad-login.html</id><summary type="html">&lt;p&gt;伺服器已於 11/24 凌晨恢復運作, 但是目前官方認證出現問題, 如果是 1.7 版本以下的
+伺服器/客戶端 將會隨機遇到 &lt;strong&gt;&lt;em&gt;Login: Bad Login&lt;/em&gt;&lt;/strong&gt; 的錯誤導致無法登入伺服器. 暫
+時的解決方式是 - 不停的重新登入直到你成功 ..&amp;nbsp;請參考以下連結:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.minecraftforum.net/topic/2144659-failed-to-login-bad-login/"&gt;&lt;span class="caps"&gt;FAILED&lt;/span&gt; &lt;span class="caps"&gt;TO&lt;/span&gt; &lt;span class="caps"&gt;LOGIN&lt;/span&gt;: &lt;span class="caps"&gt;BAD&lt;/span&gt;&amp;nbsp;&lt;span class="caps"&gt;LOGIN&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.minecraftforum.net/forum-152/announcement-78-bad-login-errors-on-164-and-older/"&gt;Announcement 78 bad login errors on 164 and&amp;nbsp;older&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>1.7.2 Ready</title><link href="http://moosworld.net/172-ready.html" rel="alternate"></link><updated>2013-12-22T11:22:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-12-22:172-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.7.2, 請記得更新你的客戶端, have fun&amp;nbsp;:]&lt;/p&gt;
 &lt;h3&gt;已知問題:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;狼人插件無法正常運作 (待作者更新)&lt;/li&gt;
+&lt;li&gt;狼人插件無法正常運作&amp;nbsp;(待作者更新)&lt;/li&gt;
 &lt;li&gt;因 1.7 版本大變動的關係, 許多底層元件, e.g., &lt;a href="http://www.minecraftforge.net/forum/"&gt;Forge&lt;/a&gt;, &lt;a href="http://www.minecraftforum.net/topic/75440-v162-risugamis-mods-updated/"&gt;ModLoader&lt;/a&gt;,
-&lt;a href="http://www.minecraftforum.net/topic/249637-164-optifine-hd-c7-fps-boost-hd-textures-aa-af-and-much-more/"&gt;OPTIFINE&lt;/a&gt; 更新進度遲緩導致其他的 Mod 也無法更新&lt;/li&gt;
+  &lt;a href="http://www.minecraftforum.net/topic/249637-164-optifine-hd-c7-fps-boost-hd-textures-aa-af-and-much-more/"&gt;&lt;span class="caps"&gt;OPTIFINE&lt;/span&gt;&lt;/a&gt; 更新進度遲緩導致其他的 Mod&amp;nbsp;也無法更新&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;參考資訊:&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/C.php?bsn=18673&amp;amp;snA=35796"&gt;1.7.2 中文輸入(含安裝教學)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://download.moosworld.net/1_7_2/mod/"&gt;1.7.2 中文輸入 for Magic launcher&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/Co.php?bsn=18673&amp;amp;sn=99012"&gt;Magic launcher 中文教學&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="version"></category><category term="server"></category></entry></feed>
+&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/C.php?bsn=18673&amp;amp;snA=35796"&gt;1.7.2&amp;nbsp;中文輸入(含安裝教學)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://download.moosworld.net/1_7_2/mod/"&gt;1.7.2 中文輸入 for Magic&amp;nbsp;launcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://forum.gamer.com.tw/Co.php?bsn=18673&amp;amp;sn=99012"&gt;Magic launcher&amp;nbsp;中文教學&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>Server maintenance</title><link href="http://moosworld.net/server-maintenance.html" rel="alternate"></link><updated>2013-11-23T01:25:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-11-23:server-maintenance.html</id><summary type="html">&lt;p&gt;伺服器維護中, 預計於 11/25&amp;nbsp;號恢復運作.&lt;/p&gt;</summary><category term="server"></category></entry><entry><title>New Host</title><link href="http://moosworld.net/new-host.html" rel="alternate"></link><updated>2013-10-01T02:18:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-10-01:new-host.html</id><summary type="html">&lt;p&gt;Dear all, 主機已更換為實體伺服器, 網路部份改用種花電信 100/100M, 請協助測試,&amp;nbsp;Thanks.&lt;/p&gt;</summary><category term="server"></category></entry><entry><title>1.6.4 Ready</title><link href="http://moosworld.net/164-ready.html" rel="alternate"></link><updated>2013-09-30T05:56:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-09-30:164-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.6.4, 請記得更新你的客戶端, have fun&amp;nbsp;:]&lt;/p&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>Server upgrade</title><link href="http://moosworld.net/server-upgrade.html" rel="alternate"></link><updated>2013-08-06T07:21:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-08-06:server-upgrade.html</id><summary type="html">&lt;p&gt;Dear all, 伺服器已升級到 &lt;a href="https://www.linode.com/"&gt;Linode&lt;/a&gt; 4 &lt;span class="caps"&gt;GB&lt;/span&gt;, 祝玩的愉快&amp;nbsp;:)&lt;/p&gt;</summary><category term="server"></category></entry><entry><title>1.6.1 Ready</title><link href="http://moosworld.net/161-ready.html" rel="alternate"></link><updated>2013-08-06T07:20:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-08-06:161-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.6.1, 請記得更新你的客戶端,&amp;nbsp;相關更新項目請看下方:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://download.moosworld.net/current/"&gt;Mod/Texture&amp;nbsp;Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://moosworld.net/pages/plugins.html"&gt;Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;祝你玩的愉快&amp;nbsp;:D&lt;/p&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>1.6.2 Ready</title><link href="http://moosworld.net/162-ready.html" rel="alternate"></link><updated>2013-08-06T07:20:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-08-06:162-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.6.2, 請記得更新你的客戶端, have fun&amp;nbsp;:]&lt;/p&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>1.5.2 Ready</title><link href="http://moosworld.net/152-ready.html" rel="alternate"></link><updated>2013-07-09T02:25:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-07-09:152-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.5.2, 請記得更新你的客戶端,&amp;nbsp;相關更新項目請看下方:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://download.moosworld.net/current/"&gt;Mod/Texture&amp;nbsp;Pack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://moosworld.net/pages/plugins.html"&gt;Plugins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;祝你玩的愉快&amp;nbsp;:D&lt;/p&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>Moo’s World is Reborn</title><link href="http://moosworld.net/moos-world-is-reborn.html" rel="alternate"></link><updated>2013-05-06T06:05:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2013-05-06:moos-world-is-reborn.html</id><summary type="html">&lt;p&gt;Hi there!
+Moo&amp;#8217;s World 從 2011-07-09 到現在已經關閉接近兩年了, 這段時間的生活中發生了很多
+事情, 最重要的是多了&lt;strong&gt;&lt;em&gt;一雙兒女&amp;lt;3&lt;/em&gt;&lt;/strong&gt;! 所以有很長的時間都在學習/適應如何當個
+&lt;strong&gt;&lt;em&gt;爸爸&lt;/em&gt;&lt;/strong&gt;, 不過都已熬過來了,&amp;nbsp;所以告訴大家一個好消息:&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://moosworld.net/images/moosworldisreborn.png"&gt;&lt;img alt="image" src="http://moosworld.net/images/moosworldisreborn.png" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;是的, 伺服器&lt;strong&gt;&lt;em&gt;重新啟動&lt;/em&gt;&lt;/strong&gt;了,
+詳情請&lt;a href="http://draft.blogger.com/p/moos-world.html"&gt;看這&lt;/a&gt;, 目前處於 &lt;span class="caps"&gt;BETA&lt;/span&gt;&amp;nbsp;狀態:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;重置地圖&lt;/li&gt;
+&lt;li&gt;沒有開啟白名單&amp;nbsp;(未來會開啟)&lt;/li&gt;
+&lt;li&gt;plugins&amp;nbsp;測試中(隨時更換)&lt;/li&gt;
+&lt;li&gt;主機遷移到 &lt;a href="http://www.linode.com/"&gt;Linode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;人數上限隨時調整&lt;/li&gt;
+&lt;li&gt;壓力測試中&lt;/li&gt;
+&lt;li&gt;誠徵&amp;nbsp;&lt;span class="caps"&gt;OP&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;歡迎舊雨新知共襄盛舉, 也請幫忙多多宣傳. have fun&amp;nbsp;;D&lt;/p&gt;</summary><category term="misc"></category></entry></feed>
