@@ -48,6 +48,7 @@ LINKS =  (('AchievementsGen1', 'https://amunak.net/projects/mcachievements/'),
 # Layout
 DEFAULT_PAGINATION = 10
 SUMMARY_MAX_LENGTH = 30
+TYPOGRIFY = True
 
 # Menu
 DISPLAY_PAGES_ON_MENU = True
