@@ -9,10 +9,14 @@ Dropdown: Plugins
 每個職業都有獨特的加入/或離開事件.
 
 ### 加入
-* 人類建設特定的祭壇來轉換吸血鬼(Vampires), 使用一塊金磚(Gold Block)來開始建造.
-* 人類有時在夜晚被野狼咬到時轉換為狼人(Werewolves).
+* 人類建設特定的祭壇來轉換吸血鬼(Vampires), 一塊金磚(Gold Block)並在周圍七格內
+  放置20個黑曜石(Obsidian), 形式不拘. 你還需要蘑菇湯(Mushroom Soup),
+  骨頭(Bone)\*10, 紅石(Redstone)\*10, 火藥(Sulphur)\*10.
+* 人類有時在夜晚被野狼咬到時轉換為狼人(werewolves).
 * 殭屍豬人(Pig Zombies)有時會使人類變成邪惡生物而不是直接死亡.
 * 任何人類對教會展現他們的忠誠有機會成為牧師(Priest).
+  你需要螢光粉(Glowstone Dust)\*4, 金錠(Gold Ingot)\*4, 紅石(Redstone)\*4,
+  麵包(Bread)\*30.
 * 任何不是牧師(Priest)的人類在沒有死亡的狀態下殺掉三種不同的超自然生物,
   將會受到女巫獵人(WitchHunter)協會的肯定而成為他們的一份子.
 * 穿帶著死亡動物毛皮(leather armor)的人類在終界(Nether)將自己奉獻給烈焰將會變成
@@ -21,7 +25,8 @@ Dropdown: Plugins
 
 ### 離開
 * 吸血鬼(Vampires)建設特殊的祭壇來回復他們的人性, 一個青金石塊(Lapis Block)並在
-  周為七格內放置20個螢光石(Glowstone), 形式不拘.
+  周為七格內放置20個螢光石(Glowstone), 形式不拘. 你還需要牛奶桶(Milk Bucket),
+  水桶(Water Bucket), 糖(Suger)\*20, 麥(Wheat)\*20.
 * 狼人(Werewolves)必須為他們自己製造狼人治癒藥水(Wolfbane potion), 使用空碗
   (Empty Bowl), 黃花(Yellow Flower)\*10, 紅玫瑰(Red Rose)\*10, 棕蘑菇
   (Brown Mushroom)\*10, 紅蘑菇(Red Mushroom)\*10 來製造.
