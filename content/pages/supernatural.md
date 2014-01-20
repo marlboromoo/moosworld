@@ -14,8 +14,8 @@ Dropdown: Plugins
   骨頭(Bone)\*10, 紅石(Redstone)\*10, 火藥(Sulphur)\*10.
 * 人類有時在夜晚被野狼咬到時轉換為狼人(werewolves).
 * 殭屍豬人(Pig Zombies)有時會使人類變成邪惡生物而不是直接死亡.
-* 任何人類對教會展現他們的忠誠有機會成為牧師(Priest).
-  你需要螢光粉(Glowstone Dust)\*4, 金錠(Gold Ingot)\*4, 紅石(Redstone)\*4,
+* 任何人類透過捐獻對教會展現他們的忠誠就有機會成為牧師(Priest).
+  你還需要螢光粉(Glowstone Dust)\*4, 金錠(Gold Ingot)\*4, 紅石(Redstone)\*4,
   麵包(Bread)\*30.
 * 任何不是牧師(Priest)的人類在沒有死亡的狀態下殺掉三種不同的超自然生物,
   將會受到女巫獵人(WitchHunter)協會的肯定而成為他們的一份子.
