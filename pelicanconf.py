@@ -71,7 +71,7 @@ DROPDOWN_MENUITEMS = {
 MENUITEMS = (
 )
 BLOCKS = (
-    ('Server', 'fa-cloud', """IP: play.moosworld.net:25565 <div id="web_mcstatus-container">Loading ...</div>
+    ('Server', 'fa-cloud', """play.moosworld.net:25565 <div id="web_mcstatus-container">Loading ...</div>
 <script src="http://mcstatus.moosworld.net/web_mcstatus.js?host=play.moosworld.net" type="text/javascript"></script> """),
     ('Donate', 'fa-usd', """
     <p>如果你覺得Moo's world帶給你很多樂趣, 或想要更好的遊戲品質, 非常歡迎實質上的支持! 多種的贊助方式可選擇:</p>
