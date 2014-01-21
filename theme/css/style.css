@@ -28,14 +28,21 @@ body {
 
 #sidebar {
     padding-top: 0px;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
 #sidebar a {
     color: inherit;
 }
 
-i {
-    margin-right: 10px;
+.icon-label {
+    margin-left: 10px;
 }
 
 a, a:hover {
@@ -55,6 +62,27 @@ a, a:hover {
 .entry-content img {
     max-width: 100%;
     height: auto;
+}
+
+.entry-content figcaption {
+    font-size: small;
+    margin-bottom: 2px;
+}
+
+.floatright {
+    float: right;
+}
+
+.floatleft {
+    float: left;
+}
+
+figure.floatright {
+    margin-left: 4px;
+}
+
+figure.floatleft {
+    margin-right: 4px;
 }
 
 .highlight pre {
@@ -85,12 +113,3 @@ a, a:hover {
     margin-right: 10px;
 }
 
-.wordbreak{
-    -ms-word-break: break-all;
-    word-break: break-all;
-    word-break: break-word;
-    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    -ms-hyphens: auto;
-    hyphens: auto;
-}
