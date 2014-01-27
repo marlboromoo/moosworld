@@ -56,16 +56,21 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DROPDOWN_MENU = True
 DROPDOWN_MENUITEMS = {
     'Chat' : (
-        ('moosworld2@kekeke.cc', 'http://kekeke.cc/moosworld2'),
-        ('#moosworld.net@irc.esper.net', 'http://irc.moosworld.net/'),
+        ('moosworld2@kekeke.cc', 'http://kekeke.cc/moosworld2', '_blank'),
+        ('#moosworld.net@irc.esper.net', 'http://irc.moosworld.net/', '_blank'),
+        ('RC: 26668044', 'http://www.raidcall.com.tw/', '_blank'),
+    ),
+    'Connect' : (
+        ('marlboromoo', 'mailto:marlboromoo@gmail.com', '_self'),
+        ('Brutus_Chang', 'mailto:pybrei@hotmail.com', '_self'),
     ),
     'Server' : (
-        ('DynMap', 'http://dynmap.moosworld.net'),
-        ('Map', 'http://map.moosworld.net'),
-        ('MCBans', 'http://mcbans.com/server/40833/play.moosworld.net/bans/')
+        ('DynMap', 'http://dynmap.moosworld.net', '_blank'),
+        ('Map', 'http://map.moosworld.net', '_blank'),
+        ('MCBans', 'http://mcbans.com/server/40833/play.moosworld.net/bans/', '_blank')
     ),
     'Mods' : (
-        ('Download', 'http://download.moosworld.net'),
+        ('Download', 'http://download.moosworld.net', '_blank'),
     )
 }
 MENUITEMS = (
