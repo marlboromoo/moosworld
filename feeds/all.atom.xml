@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Moo's World</title><link href="http://moosworld.net/" rel="alternate"></link><link href="http://moosworld.net/feeds/all.atom.xml" rel="self"></link><id>http://moosworld.net/</id><updated>2014-01-15T01:06:00+08:00</updated><entry><title>Brand New Blog</title><link href="http://moosworld.net/brand-new-blog.html" rel="alternate"></link><updated>2014-01-15T01:06:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-01-15:brand-new-blog.html</id><summary type="html">&lt;p&gt;Blog 全新面貌,&amp;nbsp;特色:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Moo's World</title><link href="http://moosworld.net/" rel="alternate"></link><link href="http://moosworld.net/feeds/all.atom.xml" rel="self"></link><id>http://moosworld.net/</id><updated>2014-04-02T09:00:00+08:00</updated><entry><title>1.7.5 Ready</title><link href="http://moosworld.net/175-ready.html" rel="alternate"></link><updated>2014-04-02T09:00:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-04-02:175-ready.html</id><summary type="html">&lt;p&gt;Dear All, 伺服器已升級到 1.7.5, 請記得更新你的客戶端, have fun&amp;nbsp;:]&lt;/p&gt;
+&lt;h3&gt;已知問題:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;血月插件暫時停用,&amp;nbsp;待職業平衡調整後再開放.&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="version"></category><category term="server"></category></entry><entry><title>Brand New Blog</title><link href="http://moosworld.net/brand-new-blog.html" rel="alternate"></link><updated>2014-01-15T01:06:00+08:00</updated><author><name>marlboromoo@gmail.com (marlboromoo)</name></author><id>tag:moosworld.net,2014-01-15:brand-new-blog.html</id><summary type="html">&lt;p&gt;Blog 全新面貌,&amp;nbsp;特色:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;文件分類 -&amp;nbsp;方便查看&lt;/li&gt;
 &lt;li&gt;靜態網頁 -&amp;nbsp;效能更好&lt;/li&gt;
